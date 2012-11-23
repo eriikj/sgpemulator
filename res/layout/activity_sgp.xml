@@ -4,8 +4,8 @@
     android:layout_height="match_parent"
     tools:context=".SGPActivity" >
 
-    <ImageView
-        android:id="@+id/imageView1"
+    <com.johnsson.erik.sgpemulator.SGPScreen
+        android:id="@+id/sgp_screen"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"

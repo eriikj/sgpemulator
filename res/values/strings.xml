@@ -4,5 +4,6 @@
     <string name="app_name">SGP Emulator</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="menu_test">Test</string>
 
 </resources>
