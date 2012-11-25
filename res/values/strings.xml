@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">SGP Emulator</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
     <string name="menu_test">Test</string>
-
+    <string name="error_memory_access_out_of_bounds">SGP Exception: Memory access out of bounds</string>
+    <string name="error_memory_write_protected">SGP Exception: Memory write protected</string>
+    <string name="error_illegal_instruction">SGP Exception: Illegal instruction</string>
+    <string name="error_unable_to_load">Unable to load ROM file for SGP Emulator</string>
+    <string name="error_processor_already_running">SGP Processor is already running</string>
 </resources>
